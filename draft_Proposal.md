@@ -52,9 +52,9 @@ minimize the import price of the crop.
 
 ### Other Issues that can be addressed: -
 
-\(\rightarrow\) Predicting most profitable crop for that season
+-> Predicting most profitable crop for that season
 
-\(\rightarrow\) Helping traders to make high profit margins
+-> Helping traders to make high profit margins
 
 </div>
 
